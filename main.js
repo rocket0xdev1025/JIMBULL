@@ -6,8 +6,8 @@
       CA bar, copy button) updates automatically.
    ============================================================ */
 
-const CA = "TBA"; // <-- paste TOKEN CONTRACT ADDRESS here (pump.fun / pumpswap)
-const PAIR = "pairaddress"; // <-- paste DEXSCREENER PAIR ADDRESS here (solana pair)
+const CA = "DpTtRHY6PSuxxJEjdd2NGW22F5JgP8WmWYBK48jhpump"; // <-- paste TOKEN CONTRACT ADDRESS here (pump.fun / pumpswap)
+const PAIR = "dp18vrkqpkuiowjfthqxxulpxxmxjltshcdrbajuaat5"; // <-- paste DEXSCREENER PAIR ADDRESS here (solana pair)
 
 /* Fixed socials */
 const X_URL = "https://x.com/TheJimothyBull";
