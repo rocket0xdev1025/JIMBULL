@@ -1,5 +1,5 @@
 /* ============================================================
-   The Jimothy Bull — link config
+   The Jimothy Bull ($JIMBULL) — link config
    ------------------------------------------------------------
    ▶ PATCH HERE: paste your two values once and every link
      (pump.fun / pumpswap buy button, Dexscreener chart + embed,
@@ -10,7 +10,7 @@ const CA = "TBA"; // <-- paste TOKEN CONTRACT ADDRESS here (pump.fun / pumpswap)
 const PAIR = "pairaddress"; // <-- paste DEXSCREENER PAIR ADDRESS here (solana pair)
 
 /* Fixed socials */
-const X_URL = "https://x.com/JIMBULLsol";
+const X_URL = "https://x.com/TheJimothyBull";
 const TG_URL = "https://t.me/TheJimothyBull";
 
 /* ------------------------------------------------------------
